@@ -17,8 +17,8 @@ Ao final do curso, ele será o seu primeiro portfólio de programação.
 | Aula 01 | Introdução à Lógica de Programação | desafios em sala (sem entrega) | ✅ |
 | [Aula 02](Aula02/) | Algoritmos: Formas de Representação | 6 exercícios | ✅ |
 | [Aula 03](Aula03/) | Operadores matemáticos, lógicos e relacionais | 16 exercícios | ✅ |
-| [Aula 04](Aula04/) | Estruturas de Seleção | 6 exercícios | ⬜ |
-| [Aula 05](Aula05/) | Estruturas de Repetição | 13 exercícios + 1 desafio | ⬜ |
+| [Aula 04](Aula04/) | Estruturas de Seleção | 6 exercícios | ✅ |
+| [Aula 05](Aula05/) | Estruturas de Repetição | 13 exercícios + 1 desafio | ✅ |
 | [Aula 06](Aula06/) | Vetores e Prática de Programação | 3 exercícios + 4 desafios | ⬜ |
 | [Aula 07](Aula07/) | Introdução a Python e Projeto Final | 1 atividade avaliativa | ⬜ |
 
