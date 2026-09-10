@@ -8,7 +8,17 @@ Crie um algoritmo que armazene as notas de 10 alunos em um vetor. Calcule a méd
 
 ## Dica
 
-Primeiro faça um laço para ler as 10 notas, guardar cada uma no vetor e, ao mesmo tempo, ir somando todas numa variável `soma`. Depois do laço, calcule a média dividindo `soma` por 10. Faça um segundo laço só para exibir as notas guardadas no vetor. Por fim, um terceiro laço percorre o vetor de novo comparando cada nota com a média: toda vez que a nota for maior ou igual à média, some 1 num contador.
+ Primeiro faça um laço para ler as 10 notas,
+ 
+ guardar cada uma no vetor e, ao mesmo tempo, 
+ 
+ ir somando todas numa variável `soma`. 
+ 
+ Depois do laço, calcule a média dividindo `soma` por 10. 
+ 
+ Faça um segundo laço só para exibir as notas guardadas no vetor. 
+ 
+ Por fim, um terceiro laço percorre o vetor de novo comparando cada nota com a média: toda vez que a nota for maior ou igual à média, some 1 num contador.
 
 ## O que entregar nesta pasta
 
