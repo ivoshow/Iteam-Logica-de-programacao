@@ -55,7 +55,7 @@ fimpara
 temp <- 0
 
 Para i de 0 ate 4 faca
-escreva("Digite as horas trabalhadas de ", nomes[i], ": ")
+escreva("Digite as horas trabalhadas de - ( ", nomes[i], " ): ")
 leia(temp)   //ATENÇÃO ESTOU USANDO VARIAVEL TEMP, POIS O PLUGIN NO VSCODE NÃO ACEITA LEIA DIRETO NO VETOR
 horas[i] <- temp
 fimpara
