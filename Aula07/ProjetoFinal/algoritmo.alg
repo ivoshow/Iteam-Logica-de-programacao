@@ -55,7 +55,7 @@ fimpara
 temp <- 0
 
 Para i de 0 ate 4 faca
-escreva("Digite o total de horas do Funcionario ", i+1, ": ")
+escreva("Digite as horas trabalhadas de ", nomes[i], ": ")
 leia(temp)   //ATENÇÃO ESTOU USANDO VARIAVEL TEMP, POIS O PLUGIN NO VSCODE NÃO ACEITA LEIA DIRETO NO VETOR
 horas[i] <- temp
 fimpara
@@ -130,8 +130,8 @@ Para i de 0 ate 4 faca
   // a produtividade que voce calculou acima. Por exemplo:
   // Ana - 9h trabalhadas - 1h extra - Acima do esperado
 
-  escreval("| Nome              : ", nomes[i])
-  escreval("| Horas trabalhadas : ", horas[i], " h")
+  escreval("| Nome               : ", nomes[i])
+  escreval("| Horas trabalhadas  : ", horas[i], " h")
   escreval("| Horas extras       : ", horaExtra, " h")
   escreval("| Produtividade      : ", produtividade)
   escreval("+----------------------------------------------------------+")
